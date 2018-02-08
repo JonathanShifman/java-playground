@@ -1,0 +1,8 @@
+target/*
+.metadata/*
+.recommenders/*
+*.iml
+*.idea/
+/.metadata/
+/.recommenders/
+/.settings/
